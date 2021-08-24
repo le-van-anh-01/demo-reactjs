@@ -1,10 +1,12 @@
 import React from 'react';
 
+import { Wrapper } from './styles';
+
 const LifeCycle = () => {
     return (
-        <div>
-
-        </div>
+        <Wrapper>
+            <h1>This is LifeCycle</h1>
+        </Wrapper>
     )
 }
 
